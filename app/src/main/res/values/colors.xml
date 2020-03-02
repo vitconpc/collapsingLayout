@@ -3,4 +3,12 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="color_989898">#989898</color>
+    <color name="color_f6f6f6">#f6f6f6</color>
+    <color name="color_0000EE">#0000ee</color>
+    <color name="rk_color_BC2228">#bc2228</color>
+    <color name="rk_color_80000000">#80000000</color>
+    <color name="color_gray_E5E5E5">#e5e5e5</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
 </resources>
